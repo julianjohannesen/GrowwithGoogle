@@ -1,0 +1,25 @@
+{
+  "name": "js-scratchpad",
+  "version": "1.0.0",
+  "description": "JS snippets from tutoring sessions",
+  "main": "functions.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianjohannesen/GrowwithGoogle.git"
+  },
+  "keywords": [
+    "tutoring",
+    "examples",
+    "js",
+    "intro"
+  ],
+  "author": "Julian Johannesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianjohannesen/GrowwithGoogle/issues"
+  },
+  "homepage": "https://github.com/julianjohannesen/GrowwithGoogle#readme"
+}
